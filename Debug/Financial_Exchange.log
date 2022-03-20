@@ -1,0 +1,7 @@
+﻿  Financial_Exchange.cpp
+  Order.cpp
+C:\Users\14432\Desktop\C++\Financial_Exchange\Financial_Exchange\Order.cpp(3,6): warning C4244: 'initializing': conversion from 'time_t' to 'const long', possible loss of data
+  Order_book.cpp
+  Price4.cpp
+  Generating Code...
+  Financial_Exchange.vcxproj -> C:\Users\14432\Desktop\C++\Financial_Exchange\Debug\Financial_Exchange.exe
